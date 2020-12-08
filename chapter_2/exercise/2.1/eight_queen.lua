@@ -21,16 +21,16 @@ function printsolution(a)
 end
 --把从第n行开始一直到N行的所有皇后放入棋盘
 function addqueen(a,n)
-	i=n
-	while (i<N) do
-			for c=1,N do
-				if(isplaceok(a,n,c)) then
-					a[i]=c
-					break
-				end
+	if(n>N) then
+		printsolution(a)
+		os.exit()
+	else
+		for c=1,N do
+			if(isplaceok(a,n,c)) then
+				a[n]=c
+				addqueen(a,n+1)
 			end
-			n=n+1
 		end
-	printsolution(a)
+	end
 end
 addqueen({},1)
