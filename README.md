@@ -15,7 +15,8 @@
 [博客](https://blog.csdn.net/fuluoyide312/article/details/112253900)
 ### 第七章
 [博客](https://blog.csdn.net/fuluoyide312/article/details/112411410)
-
+### 第八章
+[博客](https://blog.csdn.net/fuluoyide312/article/details/112463687)
 
 ------
 
@@ -26,3 +27,4 @@
 - [x] 第五章
 - [x] 第六章
 - [x] 第七章
+- [x] 第八章
