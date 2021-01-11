@@ -10,7 +10,7 @@ while count~=arg[2]+1 do
 		file:seek("set")
 		str=file:read("a")
 		io.write(str)
-		os.exit(0)
+		return
 	end
 	str=file:read(1)
 	if str=="\n" then
