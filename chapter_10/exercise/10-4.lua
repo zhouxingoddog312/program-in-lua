@@ -10,7 +10,7 @@ oldtrim(str)
 print(os.clock()-time)
 
 function newtrim(s)
-	s=string.match(s,"%S.*%S")
+	s=string.match(s,"%S.*%S*")
 	return s
 end
 time=os.clock()
