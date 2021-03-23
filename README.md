@@ -33,6 +33,7 @@
 [博客](https://blog.csdn.net/fuluoyide312/article/details/113871142)
 
 ### 第十六章
+[博客](https://blog.csdn.net/fuluoyide312/article/details/115112971)
 
 
 ### 第十七章
@@ -81,7 +82,7 @@
 - [x] 第十三章
 - [x] 第十四章
 - [x] 第十五章
-- [ ] 第十六章
+- [x] 第十六章
 - [x] 第十七章
 - [x] 第十八章
 - [x] 第十九章
