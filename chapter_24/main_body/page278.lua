@@ -10,9 +10,10 @@ function permgen(a,n)
 	if n<=1 then
 		printResult(a)
 	else
-	for i=1,n do
-		a[i],a[n]=a[n],a[i]
-		permgen(a,n-1)
-		a[i],a[n]=a[n],a[i]
+		for i=1,n do
+			a[i],a[n]=a[n],a[i]
+			permgen(a,n-1)
+			a[i],a[n]=a[n],a[i]
+		end
 	end
 end
