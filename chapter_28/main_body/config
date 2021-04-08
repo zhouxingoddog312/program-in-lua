@@ -1,0 +1,10 @@
+--配置文件
+if os.getenv("DISPLAY")==":0.0" then
+	width=300;height=300;
+else
+	width=200;height=200;
+end
+
+background={red=0.30,green=0.10,blue=0}
+
+--background="WHITE"
