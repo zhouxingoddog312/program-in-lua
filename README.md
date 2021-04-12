@@ -70,6 +70,9 @@
 ### 第二十八章
 [博客](https://blog.csdn.net/fuluoyide312/article/details/115558550)
 
+### 第二十九章
+[博客](https://blog.csdn.net/fuluoyide312/article/details/115643211)
+
 ------
 
 - [x] 第一章
@@ -100,3 +103,4 @@
 - [x] 第二十六章
 - [x] 第二十七章
 - [x] 第二十八章
+- [x] 第二十九章
