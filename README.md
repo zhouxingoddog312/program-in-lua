@@ -76,6 +76,9 @@
 ### 第三十章
 [博客](https://blog.csdn.net/fuluoyide312/article/details/115739556)
 
+### 第三十一章
+[博客](https://blog.csdn.net/fuluoyide312/article/details/115921164)
+
 ------
 
 - [x] 第一章
@@ -108,3 +111,4 @@
 - [x] 第二十八章
 - [x] 第二十九章
 - [x] 第三十章
+- [x] 第三十一章
