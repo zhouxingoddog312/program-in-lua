@@ -60,6 +60,7 @@
 ### 第二十四章
 
 ### 第二十五章
+[博客](https://blog.csdn.net/fuluoyide312/article/details/116671054)
 
 ### 第二十六章
 [博客](https://blog.csdn.net/fuluoyide312/article/details/115057202)
@@ -105,7 +106,7 @@
 - [x] 第二十二章
 - [x] 第二十三章
 - [ ] 第二十四章
-- [ ] 第二十五章
+- [x] 第二十五章
 - [x] 第二十六章
 - [x] 第二十七章
 - [x] 第二十八章
