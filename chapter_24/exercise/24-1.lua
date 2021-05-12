@@ -1,5 +1,4 @@
 #!/usr/bin/lua
-
 function receive()
 	return coroutine.yield()
 end
@@ -20,7 +19,7 @@ end
 function filter(prod)
 	return coroutine.create(
 		function ()
-			for line=1,math.huge do
+			for line=0,math.huge do
 				local x=receive()
 				x=string.format("%5d %s",line,x)
 				send(prod,x)
